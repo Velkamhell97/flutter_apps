@@ -416,3 +416,37 @@ Demo:
 	</tr>
 </tbody>
 </table>
+
+---
+
+## Dashboard App
+
+Includes:
+
+* Bloc as state management
+* Equtable and Freezed for Handle states
+* Auth module - jwt
+* Notifications service: snackbars, dialogs, popups
+* Fetch Service: http requests listeners, handle success, error status, overlays, cancel tokens, etc..
+* Local storage (SharedPreferences)
+* PaginatedDataTable, with actions (edit, delete), pagination, rows per page, etc..
+* AsyncDataSource and AsyncPageRequest
+* Sorting columns
+* Shortcuts (ESC to close)
+* Nested navigation - url navigation (can save path as favorite)
+* Responsive - layout changes based on screen size
+* Route Observer for tracking current route
+* Route guards
+
+
+Demo:
+
+https://user-images.githubusercontent.com/54115437/211112764-1ec70340-776e-4a1d-b62e-b3853a22dbb5.mp4
+
+https://user-images.githubusercontent.com/54115437/211113148-488279b6-524f-49db-8a64-eb2014a27883.mp4
+
+https://user-images.githubusercontent.com/54115437/211114099-92ff0e2a-4736-4635-9b5c-53e7a9a8a8e0.mp4
+
+https://user-images.githubusercontent.com/54115437/211114191-018414da-811b-4dc7-8648-2c814d8b2394.mp4
+
+https://user-images.githubusercontent.com/54115437/211114208-0ac3794e-cfd0-48b6-bbc4-42c2d183b3c4.mp4
