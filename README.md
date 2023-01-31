@@ -450,3 +450,41 @@ https://user-images.githubusercontent.com/54115437/211114099-92ff0e2a-4736-4635-
 https://user-images.githubusercontent.com/54115437/211114191-018414da-811b-4dc7-8648-2c814d8b2394.mp4
 
 https://user-images.githubusercontent.com/54115437/211114208-0ac3794e-cfd0-48b6-bbc4-42c2d183b3c4.mp4
+
+--- 
+
+## Flutter See You Here
+
+Includes:   
+
+* Clean Architecture
+* Bloc as state management
+* Equtable for Handle states
+* Google Signin and Anonymous Signin (can link with google) - Firebase Auth
+* Push Notifications Service - Firebase Messagging
+* Cloud Firestore database
+* Google Maps - Custom Markers - Fit camera to bounds - InfoWindow
+* Google Places Autocomplete Api - Google Geocoding Api
+* Realtime markers position update (Firestore snapshots)
+* Gps Service Handler
+* Connection Service Handler
+
+Demo:
+
+<table>
+<thead>
+	<tr>
+		<th>Demo 1</th>
+		<th>Demo 2</th>
+		<th>Demo 3</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1675137563/flutter_repos/Flutter%20CA/see_you_here/see_you_here_1.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1675137568/flutter_repos/Flutter%20CA/see_you_here/see_you_here_2.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1675137638/flutter_repos/Flutter%20CA/see_you_here/see_you_here_3.gif"></td>
+	</tr>
+</tbody>
+</table>
+
