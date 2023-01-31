@@ -23,9 +23,9 @@ Demo:
 </thead>
 <tbody>
 	<tr>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649738718/flutter_repos/Movies%20App/movies_app_1.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649647976/flutter_repos/Movies%20App/movies_app_2.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649647976/flutter_repos/Movies%20App/movies_app_3.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649738718/flutter_repos/Flutter%20Beginner/3.%20Movies%20App/movies_app_1.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649647976/flutter_repos/Flutter%20Beginner/3.%20Movies%20App/movies_app_2.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649647976/flutter_repos/Flutter%20Beginner/3.%20Movies%20App/movies_app_3.gif"></td>
 	</tr>
 </tbody>
 </table>
@@ -53,9 +53,9 @@ Demo:
 </thead>
 <tbody>
 	<tr>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649737090/flutter_repos/QR%20Reader%20App/scan_app_1.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649737090/flutter_repos/QR%20Reader%20App/scan_app_2.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649737090/flutter_repos/QR%20Reader%20App/scan_app_3.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649737090/flutter_repos/Flutter%20Beginner/5.%20QR%20Reade%20Appp/scan_app_1.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649737090/flutter_repos/Flutter%20Beginner/5.%20QR%20Reade%20Appp/scan_app_2.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649737090/flutter_repos/Flutter%20Beginner/5.%20QR%20Reade%20Appp/scan_app_3.gif"></td>
 	</tr>
 </tbody>
 </table>
@@ -88,9 +88,9 @@ Demo:
 </thead>
 <tbody>
 	<tr>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875722/flutter_repos/Firestore%20App/firestore_app_1.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875722/flutter_repos/Firestore%20App/firestore_app_2.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875722/flutter_repos/Firestore%20App/firestore_app_3.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875722/flutter_repos/Flutter%20Beginner/8.%20Firestore%20App/firestore_app_1.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875729/flutter_repos/Flutter%20Beginner/8.%20Firestore%20App/firestore_app_2.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875754/flutter_repos/Flutter%20Beginner/8.%20Firestore%20App/firestore_app_3.gif"></td>
 	</tr>
 </tbody>
 </table>
@@ -104,8 +104,8 @@ Demo:
 </thead>
 <tbody>
 	<tr>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875729/flutter_repos/Firestore%20App/firestore_app_4.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875729/flutter_repos/Firestore%20App/firestore_app_5.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875724/flutter_repos/Flutter%20Beginner/8.%20Firestore%20App/firestore_app_4.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649875731/flutter_repos/Flutter%20Beginner/8.%20Firestore%20App/firestore_app_5.gif"></td>
 		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1649648477/flutter_repos/transparent.png"></td>
 	</tr>
 </tbody>
@@ -113,6 +113,51 @@ Demo:
 
 
 --- 
+
+# News App
+
+Includes:
+
+* Api Consumption Service (News Api)
+* PageView and TabView Nested
+* Provider as State Management with States Logic (equitable), filtering rebuild tricks and good practices.
+* Provider Array States syncing with TabView, and Selector.
+* Infinite Scroll with debouncer for new pages requests.
+* State and Scroll Position Persistence with AutomaticKeepAliveClientMixin
+
+Demo: 
+
+<table>
+<thead>
+	<tr>
+		<th>Demo 1</th>
+		<th>Demo 2</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650328362/flutter_repos/Flutter%20Beginner/10.%20News%20App/news_app_1.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650328369/flutter_repos/Flutter%20Beginner/10.%20News%20App/news_app_2.gif"></td>
+	</tr>
+</tbody>
+</table>
+<table>
+<thead>
+	<tr>
+		<th>Demo 3</th>
+		<th>Demo 4</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650328374/flutter_repos/Flutter%20Beginner/10.%20News%20App/news_app_3.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650328362/flutter_repos/Flutter%20Beginner/10.%20News%20App/news_app_4.gif"></td>
+	</tr>
+</tbody>
+</table>
+
+
+---
 
 ## Google maps app
 
@@ -140,8 +185,8 @@ Demo:
 </thead>
 <tbody>
 	<tr>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650312782/flutter_repos/Directions%20App/directions_app_1.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650312782/flutter_repos/Directions%20App/directions_app_2.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650312782/flutter_repos/Flutter%20Beginner/11.%20Directions%20App/directions_app_1.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650312782/flutter_repos/Flutter%20Beginner/11.%20Directions%20App/directions_app_2.gif"></td>
 	</tr>
 </tbody>
 </table>
@@ -154,8 +199,8 @@ Demo:
 </thead>
 <tbody>
 	<tr>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650312782/flutter_repos/Directions%20App/directions_app_3.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650312782/flutter_repos/Directions%20App/directions_app_4.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650312776/flutter_repos/Flutter%20Beginner/11.%20Directions%20App/directions_app_3.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1650312780/flutter_repos/Flutter%20Beginner/11.%20Directions%20App/directions_app_4.gif"></td>
 	</tr>
 </tbody>
 </table>
