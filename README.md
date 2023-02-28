@@ -1,5 +1,13 @@
 # Flutter Apps
 
+[1. Common Apps](#common-apps)
+<br />
+[2. Web Apps](#web-apps)
+<br />
+[3. Clean Architecture Apps](#clean-architecture-apps)
+
+# Common Apps
+
 ## Movies App
 
 Includes:
@@ -464,6 +472,8 @@ Demo:
 
 ---
 
+# Web Apps
+
 ## Dashboard App
 
 Includes:
@@ -498,7 +508,9 @@ https://user-images.githubusercontent.com/54115437/211114208-0ac3794e-cfd0-48b6-
 
 --- 
 
-## Flutter See You Here (Clean Architecture)
+# Clean Architecture Apps
+
+## See you here
 
 Includes:   
 
@@ -526,9 +538,44 @@ Demo:
 </thead>
 <tbody>
 	<tr>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1675137563/flutter_repos/Flutter%20CA/see_you_here/see_you_here_1.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1675137568/flutter_repos/Flutter%20CA/see_you_here/see_you_here_2.gif"></td>
-		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1675137638/flutter_repos/Flutter%20CA/see_you_here/see_you_here_3.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1675137563/flutter_repos/Flutter%20CA/2.%20See%20You%20Here/see_you_here_1.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1675137568/flutter_repos/Flutter%20CA/2.%20See%20You%20Here/see_you_here_2.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1675137638/flutter_repos/Flutter%20CA/2.%20See%20You%20Here/see_you_here_3.gif"></td>
+	</tr>
+</tbody>
+</table>
+
+## Chat App
+
+Includes:   
+
+* Clean Architecture
+* Bloc as state management
+* Equtable for Handle states
+* Google Signin and Anonymous Signin (can link with google) - Firebase Auth
+* Push Notifications Service - Firebase Messagging
+* Cloud Firestore database
+* Google Maps - Custom Markers - Fit camera to bounds - InfoWindow
+* Google Places Autocomplete Api - Google Geocoding Api
+* Realtime markers position update (Firestore snapshots)
+* Gps Service Handler
+* Connection Service Handler
+
+Demo:
+
+<table>
+<thead>
+	<tr>
+		<th>Demo 1</th>
+		<th>Demo 2</th>
+		<th>Demo 3</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1677543615/flutter_repos/Flutter%20CA/3.%20Chat%20App/chat_app_1.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1677543904/flutter_repos/Flutter%20CA/3.%20Chat%20App/chat_app_2.gif"></td>
+		<td><img src="https://res.cloudinary.com/dwzr9lray/image/upload/v1677543904/flutter_repos/Flutter%20CA/3.%20Chat%20App/chat_app_3.gif"></td>
 	</tr>
 </tbody>
 </table>
