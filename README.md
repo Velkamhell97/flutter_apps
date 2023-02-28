@@ -551,15 +551,11 @@ Includes:
 
 * Clean Architecture
 * Bloc as state management
-* Equtable for Handle states
-* Google Signin and Anonymous Signin (can link with google) - Firebase Auth
-* Push Notifications Service - Firebase Messagging
-* Cloud Firestore database
-* Google Maps - Custom Markers - Fit camera to bounds - InfoWindow
-* Google Places Autocomplete Api - Google Geocoding Api
-* Realtime markers position update (Firestore snapshots)
-* Gps Service Handler
-* Connection Service Handler
+* Google Signin
+* Stream Chat SDK
+* Group an private chats
+* Light and dark mode
+* Real time updates
 
 Demo:
 
